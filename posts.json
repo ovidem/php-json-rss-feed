@@ -1,0 +1,14 @@
+{
+  "posts": [{
+    "var": "rip-flash",
+    "title": "RIP Flash",
+    "date": "2017-08-28",
+    "blurb": "Recently, Adobe officially announced it is discontinuing support for its Flash browser plugin by 2020.",
+  }, {
+    "var": "introducing-blocks-edit",
+    "url": "https://blocksedit.com/content-code/introducing-blocks-edit/",
+    "title": "Introducing Blocks Edit, content management for email",
+    "date": "2017-10-02",
+    "blurb": "Blocks Edit is now live and ready for you to improve how you send out marketing campaigns.",
+  }]
+}
